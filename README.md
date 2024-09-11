@@ -31,6 +31,13 @@
 
 **자료**: 책의 부록에 있는 추가 PostgreSQL 자료에 대한 업데이트는 [resources.md](https://github.com/anthonydb/practical-sql-2/blob/master/resources.md)에서 확인할 수 있습니다.
 
+ 
+<br>
+
+## 💡동작 환경
+PostgreSQL 15.0
+
+
 
 <br>
 
