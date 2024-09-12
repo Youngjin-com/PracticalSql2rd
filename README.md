@@ -1,6 +1,6 @@
 # 실용 SQL (2판)
 
-<img src="https://www.youngjin.com/images/book_cover/9788931465952.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931465952.png" height="350px" style="border: 2px solid grey;">
 
 [실용 SQL (2판)(영진닷컴)](https://blog.naver.com/ydot/222923909221)
 
